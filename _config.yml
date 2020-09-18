@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ignacio Madrid"
 title_separator          : "-"
 name                     : &name "Ignacio Madrid"
-description              : &description "PhD student in Applied mathematics"
+description              : &description "PhD student in Applied Mathematics"
 url                      : https://ijmadrid.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ijmadrid.github.io"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Ignacio Madrid"
-  avatar           : "profile.png"
+  avatar           : "CLGR1812151371-SOLOX1-EVER_(22).JPG"
   bio              : "PhD student in Applied Mathematics"
-  location         : "CMAP, École polytechnique. Paris, France"
+  location         : "CMAP, École polytechnique. Paris"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
