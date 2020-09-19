@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Applied Mathematics, École polytechnique, 2023 (expected)
+* 1st year, Ph.D in Applied Mathematics, École polytechnique
 * M.Sc. Applied Mathematics to Life Sciences (MSV), Université Paris-Saclay
 * Ingénieur polytechnicien, École polytechnique
 * Mathematical Engineering, Pontificia Universidad Católica de Chile
@@ -20,8 +20,7 @@ Experience
 ======
 * Spring 2018: Graduate Research Assistant
   * *Counting statistics of single-electron transfer in a redox-labeled biological motor*
-  * [Fujii Lab](http://www.microfluidics.iis.u-tokyo.ac.jp/) @ Institute of Industrial Sciences, the University of Tokyo
-  * [LIMMS](https://limmshp.iis.u-tokyo.ac.jp/) CNRS UMI 2820 
+  * [Fujii Lab](http://www.microfluidics.iis.u-tokyo.ac.jp/) @ Institute of Industrial Sciences, the University of Tokyo ; [LIMMS](https://limmshp.iis.u-tokyo.ac.jp/) CNRS UMI 2820 
 
 * Spring 2017: Graduate Research Assistant
   * *Statistics of repair dynamics of clustered DSB damaged chromatin through coarse-grained polymer models*
