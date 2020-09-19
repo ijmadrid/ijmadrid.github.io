@@ -20,7 +20,7 @@ Experience
 ======
 * Spring 2018: Graduate Research Assistant
   * *Counting statistics of single-electron transfer in a redox-labeled biological motor*
-  * [Fujii Lab](http://www.microfluidics.iis.u-tokyo.ac.jp/) | Institute of Industrial Sciences, the University of Tokyo
+  * [Fujii Lab](http://www.microfluidics.iis.u-tokyo.ac.jp/) @ Institute of Industrial Sciences, the University of Tokyo
   * [LIMMS](https://limmshp.iis.u-tokyo.ac.jp/) CNRS UMI 2820 
 
 * Spring 2017: Graduate Research Assistant
