@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Applied Mathematics, École polytechnique, 2023 (expected)
+* M.Sc. Applied Mathematics to Life Sciences (MSV), Université Paris-Saclay
+* Ingénieur polytechnicien, École polytechnique
+* Mathematical Engineering, Pontificia Universidad Católica de Chile
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2018: Graduate Research Assistant
+  * *Counting statistics of single-electron transfer in a redox-labeled biological motor*
+  * [Fujii Lab](http://www.microfluidics.iis.u-tokyo.ac.jp/) | Institute of Industrial Sciences, the University of Tokyo
+  * [LIMMS](https://limmshp.iis.u-tokyo.ac.jp/) CNRS UMI 2820 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Spring 2017: Graduate Research Assistant
+  * *Statistics of repair dynamics of clustered DSB damaged chromatin through coarse-grained polymer models*
+  * [Group of Applied Mathematics and Computational biology](https://www.ibens.ens.fr/spip.php?rubrique40) @ Institut de Biologie de l'École normale supérieure (IBENS)
+
+* Spring 2016: Undergaduate Resarch Assistant
+  * *Statistical characterization of hipocampal neuron cultures*
+  * Servier Lab @ Institut du Cerveau et de la Moelle épinière
+
 
 Publications
 ======
@@ -54,6 +50,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
