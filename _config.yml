@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ignacio Madrid"
 title_separator          : "-"
-name                     : &name "Ignacio Madrid"
+name                     : &name "Ignacio MADRID CANALES"
 description              : &description "PhD student in Applied Mathematics"
 url                      : https://ijmadrid.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
