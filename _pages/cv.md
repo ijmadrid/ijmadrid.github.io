@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* 1st year, Ph.D in Applied Mathematics, École polytechnique
-* M.Sc. Applied Mathematics to Life Sciences (MSV), Université Paris-Saclay
+* 3rd year, Ph.D in Applied Mathematics, École polytechnique
+* M.Sc. [Applied Mathematics to Life Sciences (MSV)](https://sites.google.com/view/m2-msv/accueil), Université Paris-Saclay
 * Ingénieur polytechnicien, École polytechnique
 * Mathematical Engineering, Pontificia Universidad Católica de Chile
 
