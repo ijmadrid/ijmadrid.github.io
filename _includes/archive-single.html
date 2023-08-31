@@ -64,6 +64,13 @@
       {% endif %}
       {% if post.paperurl %}
         <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      {% endif %}        
+      {% if post.paperreadonly %}
+        <a href="{{ post.paperreadonly }}">
+          <span class="fa-stack fa-lg zoom" aria-hidden="true">
+            <i class="fa-regular fa-file fa-stack-1x"></i>
+            <i class="fa-regular fa-eye fa-stack-2x"></i>
+          </span></a>
       {% endif %}
       {% if post.code %}
         <a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
