@@ -9,12 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+[**CV**](/files/CV.pdf)
+
 Education
 ======
-* 3rd year, Ph.D in Applied Mathematics, École polytechnique
+* 4th year, Ph.D. in Applied Mathematics, CMAP École polytechnique
 * M.Sc. [Applied Mathematics to Life Sciences (MSV)](https://sites.google.com/view/m2-msv/accueil), Université Paris-Saclay
 * Ingénieur polytechnicien, École polytechnique
-* Mathematical Engineering, Pontificia Universidad Católica de Chile
+* Mathematical and Computational Engineering, [IMC](https://imc.uc.cl) Pontificia Universidad Católica de Chile
 
 Experience
 ======
@@ -31,21 +33,5 @@ Experience
   * Servier Lab @ Institut du Cerveau et de la Moelle épinière
 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
