@@ -19,6 +19,6 @@ In my PhD, I aim to model the growth and emergence of heterogeneity in *E. coli*
  Previous to my PhD I developed techniques to predict the probaibilty distribution and noise structure of single-electron electrical measures in DNA-based biosensors in [Prof. Fujii's lab](http://www.microfluidics.iis.u-tokyo.ac.jp/), as member of [LIMMS](https://limmshp.iis.u-tokyo.ac.jp/) in the University of Tokyo.
 
 
-<img align="left" width="10%" src="/images/logo_mmb.png">
-<img align="left" width="10%" src="/images/logo_cmap.png">
+<img align="left" width="10%" src="/images/LogoMMB.jpeg">
+<img align="left" width="10%" src="/images/logo-cmap_a_cote.png">
 <img align="left" width="10%" src="/images/logo_x.png">
