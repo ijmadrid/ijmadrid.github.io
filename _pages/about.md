@@ -20,5 +20,5 @@ In my PhD, I aim to model the growth and emergence of heterogeneity in *E. coli*
 
 
 <img align="left" width="10%" src="/images/LogoMMB.jpeg">
-<img align="left" width="10%" src="/images/logo-cmap_a_cote.png">
+<img align="left" width="10%" src="/images/logo-cmap_a_cote.jpeg">
 <img align="left" width="10%" src="/images/logo_x.png">
