@@ -1,7 +1,6 @@
 ---
-title: "Regime switching on the propagation speed of travelling waves of some size-structured Myxobacteria population models"
+title: "PhD thesis"
 collection: publications
-date: 2023/12/31
-venue: 'Submitted'
-citation: '&quot;Regime switching on the propagation speed of travelling waves of some size-structured Myxobacteria population models.&quot; In collaboration with Vincent Calvez, Adil El Abdouni, Maxime Estavoyer, Florence Hubert, Julien Olivier, and Magali Tournus. <i>Submitted</i>.'
+date: 2024/02/09
+citation: 'PhD thesis &quot;Model of Cellular Growth under Stress: Emergence of Heterogeneity and Impact of the Environment.&quot;'
 ---
