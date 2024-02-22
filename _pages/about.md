@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm a PhD student in Applied Mathematics at the [PEIPS group](https://cmap.ip-paris.fr/en/research/probability/peips) (Population Evolution and Interacting Particle Systems) of  CMAP (École polytechnique, CNRS UMR 7641), under the supervision of [Sylvie Méléard](https://sites.google.com/view/sylvie-meleard/accueil) and [Meriem El Karoui](http://www.elkarouilab.fr/), currently founded by the ERC project [SINGER](https://www.ip-paris.fr/erc-singer-stochastic-dynamics-single-cells-growth-emergence-and-resistance). I am also student member of the [Inria project team MERGE](https://cmap.ip-paris.fr/en/research/probability/merge). 
+I'm a PhD student in Applied Mathematics at the [PEIPS group](https://cmap.ip-paris.fr/en/research/probability/peips) (Population Evolution and Interacting Particle Systems) of  CMAP (École polytechnique, CNRS UMR 7641), under the supervision of [Sylvie Méléard](https://sites.google.com/view/sylvie-meleard/accueil) and [Meriem El Karoui](http://www.elkarouilab.fr/), currently founded by the [ERC project SINGER](https://www.ip-paris.fr/erc-singer-stochastic-dynamics-single-cells-growth-emergence-and-resistance). I am also student member of the [Inria project team MERGE](https://cmap.ip-paris.fr/en/research/probability/merge). 
 
 
 # Research topics
