@@ -19,7 +19,7 @@ Overall I'm interested in the study of the the interplay between different scale
 **Keywords:**
 * Stochastic Individual-Based Models
 * Structured Population Dynamics
-* Probabilistic analysis of growth-fragmenation equations 
+* Probabilistic analysis of growth-fragmentation equations 
 * Single-cell data-driven modelling in microbiology
 
 ## PhD thesis: Emergence and stability of cell growth under stress: from single cells to populations
