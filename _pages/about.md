@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-I'm a PhD student in Applied Mathematics at the [PEIPS group](https://cmap.ip-paris.fr/en/research/probability/peips) (Population Evolution and Interacting Particle Systems) of  CMAP (École polytechnique, CNRS UMR 7641), under the supervision of [Sylvie Méléard](https://sites.google.com/view/sylvie-meleard/accueil) and [Meriem El Karoui](http://www.elkarouilab.fr/), currently founded by the [ERC project SINGER](https://www.ip-paris.fr/erc-singer-stochastic-dynamics-single-cells-growth-emergence-and-resistance). I am also student member of the [Inria project team MERGE](https://cmap.ip-paris.fr/en/research/probability/merge). 
+I'm a PhD student in Applied Mathematics at [PEIPS](https://cmap.ip-paris.fr/en/research/probability/peips) (Population Evolution and Interacting Particle Systems) and [Inria project team MERGE](https://cmap.ip-paris.fr/en/research/probability/merge) of CMAP (École polytechnique, CNRS UMR 7641), under the supervision of [Sylvie Méléard](https://sites.google.com/view/sylvie-meleard/accueil) and [Meriem El Karoui](http://www.elkarouilab.fr/), currently founded by the [ERC project SINGER](https://www.ip-paris.fr/erc-singer-stochastic-dynamics-single-cells-growth-emergence-and-resistance). 
 
-Starting at April 2024, I will join the team of [Tetsuya Kobayashi](https://research.crmind.net/) at the Institute of Industrial Science of The University of Tokyo as postodoctoral fellow.
+Starting at April 2024, I will join the team of [Tetsuya Kobayashi](https://research.crmind.net/) at the Institute of Industrial Science of The University of Tokyo as postdoctoral fellow.
 
 # Research topics
 
