@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum vitæ"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,12 +11,12 @@ redirect_from:
 
 
 Work
-======
+=======
 * 04/2024 - Specially Appointed Researcher (Postdoctoral fellow), T. J. Kobayashi Lab, Institue of Industrial Science, The University of Tokyo
 * 02/2044 - 03/2024 ERC-founded postdoc, CMAP École polytechnique and Inria project-team MERGE
 
 Education
-======
+=======
 * Ph.D. in Applied Mathematics, CMAP École polytechnique
 * M.Sc. [Applied Mathematics to Life Sciences (MSV)](https://sites.google.com/view/m2-msv/accueil), Université Paris-Saclay
   * Masters memoir : *Counting statistics of single-electron transfer in a redox-labeled biological motor* , under the supervision of Nicolas Clémenet
