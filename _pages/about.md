@@ -26,6 +26,7 @@ I'm interested in the interplay between the different scales of living systems, 
 
 ### Emergence and stability of cell growth under stress: from single cells to populations
 <img align="left" width="33%" src="/images/fig_ecoligrowth.png">
+
 In my PhD, I aimed to model the growth and emergence of heterogeneity in *E. coli* bacterial populations under antibiotic stress. You can found my thesis titled [here](/files/Manuscrit_2depot.pdf).
 
 Under the action of an antibiotic damaging DNA, bacteria change their growth strategy and do not respond homogeneously to the stress. In addition, the effect of the antibiotic is different depending on the speed of bacterial growth which itself depends on the richness of the growth medium. Using **measure-valued stochastic processes** to model **structured population dynamics** I studied the emergence of bacterial subpopulations exhibiting different behaviors depending on genotoxic stress and on the nutritional richness of the environment in which they are immersed.
