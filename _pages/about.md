@@ -19,9 +19,9 @@ Until February 2024 I was a PhD student in the group [PEIPS](https://cmap.ip-par
 I'm interested in the interplay between the different scales of living systems, and particularly how tools arising from probabilistic and deterministic approaches can help bridge the gap between individual and macroscopic population dynamics.
 
 **Some keywords:**
+* Limit theorems for measure-valued branching processes
 * Stochastic Individual-Based Models
 * Structured Population Dynamics
-* Measure-valued branching processes
 * Single-cell modelling and inference in microbiology
 
 ## Ongoing projects
