@@ -8,19 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-On April 2024 I will be joining the team of [Tetsuya Kobayashi](https://research.crmind.net/) at the Institute of Industrial Science of The University of Tokyo as Specially Appointed Research (postdoc).
+Since April 2024 I am postdoc in the team of [Tetsuya Kobayashi](https://research.crmind.net/) at the Institute of Industrial Science of The University of Tokyo.
 
-Until February 2024 I was a PhD student in the group [PEIPS](https://cmap.ip-paris.fr/en/research/probability/peips) (Population Evolution and Interacting Particle Systems) and [Inria project team MERGE](https://cmap.ip-paris.fr/en/research/probability/merge) of [CMAP (École polytechnique, CNRS UMR 7641)](https://cmap.ip-paris.fr), under the supervision of [Sylvie Méléard](https://sites.google.com/view/sylvie-meleard/accueil) and [Meriem El Karoui](http://www.elkarouilab.fr/). Until March 2024 I continued my research as postdoct founded by the [ERC project SINGER](https://www.ip-paris.fr/erc-singer-stochastic-dynamics-single-cells-growth-emergence-and-resistance). 
+Until February 2024 I was a PhD student in the group [PEIPS](https://cmap.ip-paris.fr/en/research/probability/peips) (Population Evolution and Interacting Particle Systems) and [Inria project team MERGE](https://cmap.ip-paris.fr/en/research/probability/merge) of [CMAP (École polytechnique, CNRS UMR 7641)](https://cmap.ip-paris.fr), under the supervision of [Sylvie Méléard](https://sites.google.com/view/sylvie-meleard/accueil) and [Meriem El Karoui](http://www.elkarouilab.fr/). Until March 2024 I continued my research founded by the [ERC project SINGER](https://www.ip-paris.fr/erc-singer-stochastic-dynamics-single-cells-growth-emergence-and-resistance). 
 
 # Research topics
 
-I'm interested in the interplay between the different scales of living systems, and particularly how tools arising from probabilistic and deterministic approaches can help bridge the gap between individual and macroscopic dynamics.
+I'm interested in the interplay between the different scales of living systems, and particularly how tools arising from probabilistic and deterministic approaches can help bridge the gap between individual and macroscopic population dynamics.
 
 **Some keywords:**
 * Stochastic Individual-Based Models
 * Structured Population Dynamics
-* Probabilistic analysis of growth-fragmentation equations 
-* Single-cell data-driven modelling in microbiology
+* Measure-valued branching processes
+* Single-cell modelling and inference in microbiology
 
 ## Ongoing projects
 
