@@ -26,6 +26,19 @@ I'm interested in the interplay between the different scales of living systems, 
 
 ## Ongoing projects
 
+### Models with reinforced phenotypic plasticity
+<img align="left" width="33%" alt="fig_reinforcedUpdates" src="https://github.com/user-attachments/assets/d085fcda-7c9b-4dea-a0df-4816503b93c9" />
+
+Biological systems choose actions without an explicit reward signal (intrisic motivation). 
+Recent works apply this idea to design robust optimisation algorithms that efficiently explore the state space rather than selecting a unique optimal solution. 
+Our goal is to generalise the framework of ancestral learning to propose and study selection-mutation algorithms that exhibit intrinsic motivation.
+
+Questions and current work:
+* Characterise the trajectories of a population that combines ancestral reinforcement and ancestral curiosity:
+* Describe its long-time behaviour (quasi-stationary distributions, typical trajectories (spinal decomposition)).
+* Using the pathwise representation, define and solve optimal control problems that select the “most curious” trajectory (ex. maximise entropy, maximise space coverage)
+
+
 ### Emergence and stability of cell growth under stress: from single cells to populations
 <img align="left" width="33%" src="/images/fig_ecoligrowth.png">
 
@@ -34,7 +47,7 @@ In my PhD, I aimed to model the growth and emergence of heterogeneity in *E. col
 Under the action of an antibiotic damaging DNA, bacteria change their growth strategy and do not respond homogeneously to the stress. In addition, the effect of the antibiotic is different depending on the speed of bacterial growth which itself depends on the richness of the growth medium. Using **measure-valued stochastic processes** to model **structured population dynamics** I studied the emergence of bacterial subpopulations exhibiting different behaviors depending on genotoxic stress and on the nutritional richness of the environment in which they are immersed.
 
 ### Single electron counting statistics for DNA-based biosensors
- Previous to my PhD I developed techniques to predict the probability distribution and noise structure of single-electron electrical measures in DNA-based biosensors in [Prof. Fujii's lab](http://www.microfluidics.iis.u-tokyo.ac.jp/), as member of [LIMMS](https://limmshp.iis.u-tokyo.ac.jp/) in the University of Tokyo.
+In collaboration with [Nicolas Clément (LIMMS CNRS - UTokyo)](https://limms-tokyo.org), we are interested in the estimation of the probability distribution associated to the current of single-electron electrical measures in DNA-based biosensors developped in [Prof. Fujii's lab](http://www.microfluidics.iis.u-tokyo.ac.jp/). 
 
 
 <a href="https://www.ip-paris.fr/erc-singer-stochastic-dynamics-single-cells-growth-emergence-and-resistance"><img align="right" width="12%" src="https://www.ip-paris.fr/sites/default/files/pages/images/logo-EU%5B43%5D.png"></a>
