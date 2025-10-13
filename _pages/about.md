@@ -19,14 +19,14 @@ Until February 2024 I was a PhD student in the group [PEIPS](https://cmap.ip-par
 I'm interested in the interplay between the different scales of living systems, and particularly how tools arising from probabilistic and deterministic approaches can help bridge the gap between individual and macroscopic population dynamics.
 
 **Some keywords:**
-* Limit theorems for measure-valued branching processes
+* Non-local branching processes
 * Stochastic Individual-Based Models
 * Structured Population Dynamics
 * Single-cell modelling and inference in microbiology
 
 ## Ongoing projects
 
-### Models with reinforced phenotypic plasticity
+### Populations with reinforced phenotypic plasticity
 <img align="left" width="45%" alt="fig_reinforcedUpdates" src="https://github.com/user-attachments/assets/d085fcda-7c9b-4dea-a0df-4816503b93c9" />
 
 Biological systems choose actions without an explicit reward signal (intrisic motivation). 
@@ -37,6 +37,9 @@ Questions and current work:
 * Characterise the trajectories of a population that combines ancestral reinforcement and ancestral curiosity:
 * Describe its long-time behaviour (quasi-stationary distributions, typical trajectories (spinal decomposition)).
 * Using the pathwise representation, define and solve optimal control problems that select the “most curious” trajectory (ex. maximise entropy, maximise space coverage)
+
+### Large deviations of growing stochastic systems of chemical reactions
+With [Praful Gagrani](https://www.prafulgagrani.com), on the large deviations of functionals of some chemical reaction networks, with applications to growing cells.
 
 
 ### Emergence and stability of cell growth under stress: from single cells to populations
