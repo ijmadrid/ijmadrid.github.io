@@ -16,7 +16,7 @@ Until February 2024 I was a PhD student in the group [PEIPS](https://cmap.ip-par
 
 # Research topics
 
-I'm interested in the interplay between the different scales of living systems, and particularly how tools arising from probabilistic and deterministic approaches can help bridge the gap between individual and macroscopic population dynamics.
+I'm a probabilist applied mathematician motivated by the interplay between the different scales of living systems, from the dynamics of chemical reaction networks to the evolution of populations. I am particularly interested by questions concerning the long time behaviour of those systems (stability, balanced growth, large deviations).
 
 **Some keywords:**
 * Non-local branching processes
