@@ -1,0 +1,6 @@
+<article class="project-card">
+  <a class="project-thumbnail" href="{{ include.project.url | relative_url }}"><img src="{{ include.project.image | relative_url }}" alt="{{ include.project.image_alt | escape }}" width="540" height="300" loading="lazy"></a>
+  <h3><a href="{{ include.project.url | relative_url }}">{{ include.project.title | escape }}</a></h3>
+  <p>{{ include.project.summary | escape }}</p>
+  <a class="project-more" href="{{ include.project.url | relative_url }}">Project details <span aria-hidden="true">↗</span></a>
+</article>

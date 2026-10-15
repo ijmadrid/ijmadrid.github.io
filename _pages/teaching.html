@@ -1,12 +1,10 @@
 ---
-layout: archive
-title: "Teaching"
+layout: page
+title: Teaching
 permalink: /teaching/
-author_profile: true
+description: Teaching in probability and mathematics at École polytechnique and PUC Chile.
 ---
-
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+{% assign courses = site.teaching | sort: 'date' | reverse %}
+{% for course in courses %}
+<article class="teaching-entry"><p class="eyebrow">{{ course.date | date: '%Y' }} · {{ course.type | escape }}</p><h2>{{ course.title | escape }}</h2><p>{{ course.venue | escape }}{% if course.location %} · {{ course.location | escape }}{% endif %}</p>{% if course.paperurl %}<a href="{{ course.paperurl | escape }}">Course page ↗</a>{% endif %}{{ course.content | markdownify }}</article>
 {% endfor %}

@@ -1,0 +1,19 @@
+---
+layout: page
+title: Publications
+description: Articles and preprints, listed together in reverse chronological order.
+permalink: /publications/
+---
+<p class="bibliography-note">Also on <a href="{{ site.author.googlescholar | escape }}">Google Scholar ↗</a> and <a href="{{ site.author.orcid | escape }}">ORCID ↗</a>.</p>
+{% assign visible_publications = site.data.publications | where_exp: 'publication', 'publication.hidden != true' %}
+{% assign articles_and_preprints = visible_publications | where_exp: 'publication', 'publication.kind != "thesis"' %}
+{% assign theses = visible_publications | where: 'kind', 'thesis' %}
+<section class="bibliography-section" aria-label="Articles and preprints in reverse chronological order">
+  {% for publication in articles_and_preprints %}{% include publication-item.html publication=publication %}{% endfor %}
+</section>
+{% if theses.size > 0 %}
+<section class="bibliography-section" aria-labelledby="thesis-heading">
+  <h2 id="thesis-heading">Ph.D. thesis</h2>
+  {% for publication in theses %}{% include publication-item.html publication=publication %}{% endfor %}
+</section>
+{% endif %}

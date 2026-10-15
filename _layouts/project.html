@@ -1,0 +1,12 @@
+---
+layout: base
+---
+<article class="project-page">
+  <header class="page-header"><p class="eyebrow">Research</p><h1>{{ page.title | escape }}</h1><p class="page-description">{{ page.description | escape }}</p></header>
+  <figure class="project-figure"><img src="{{ page.image | relative_url }}" alt="{{ page.image_alt | escape }}" width="900" height="450"><figcaption>{{ page.image_caption | escape }}</figcaption></figure>
+  <div class="prose">{{ content }}</div>
+  {% assign related = site.data.publications | where_exp: 'publication', 'publication.hidden != true' %}
+  {% assign count = 0 %}{% for publication in related %}{% if publication.projects contains page.project_id %}{% assign count = count | plus: 1 %}{% endif %}{% endfor %}
+  {% if count > 0 %}<section class="related-publications"><h2>Related publications</h2>{% for publication in related %}{% if publication.projects contains page.project_id %}{% include publication-item.html publication=publication %}{% endif %}{% endfor %}</section>{% endif %}
+  <p class="back-link"><a href="{{ '/research/' | relative_url }}">← All research projects</a></p>
+</article>

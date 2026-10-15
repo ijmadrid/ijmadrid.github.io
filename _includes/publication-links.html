@@ -1,0 +1,7 @@
+<div class="publication-links" aria-label="Publication resources">
+  {% for resource in include.publication.resources %}
+    {% assign initial = resource.url | slice: 0 %}
+    {% if initial == '/' %}{% assign resource_url = resource.url | relative_url %}{% else %}{% assign resource_url = resource.url %}{% endif %}
+    <a href="{{ resource_url | escape }}">{{ resource.label | escape }}</a>
+  {% endfor %}
+</div>

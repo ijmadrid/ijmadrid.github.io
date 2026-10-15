@@ -1,0 +1,27 @@
+---
+layout: base
+---
+<header class="home-intro">
+  <h1>About</h1>
+  <div class="prose">{{ content }}</div>
+  <div class="text-links"><a href="{{ '/files/Manuscrit_2depot.pdf' | relative_url }}">Doctoral thesis</a><a href="{{ '/cv/' | relative_url }}">Curriculum vitæ</a></div>
+</header>
+<section class="research-section" aria-labelledby="research-heading">
+  <div class="section-heading">
+    <h2 id="research-heading">Research</h2>
+    <div class="research-navigation">
+      <a href="{{ '/research/' | relative_url }}">All projects <span aria-hidden="true">↗</span></a>
+      <div class="project-controls" hidden>
+        <button type="button" data-project-step="-1" aria-label="Previous projects"><span aria-hidden="true">←</span></button>
+        <button type="button" data-project-step="1" aria-label="Next projects"><span aria-hidden="true">→</span></button>
+      </div>
+    </div>
+  </div>
+  <div class="project-grid project-carousel" data-project-carousel tabindex="0" role="region" aria-label="Research projects; scroll horizontally to explore">
+    {% for project in site.data.research %}{% if project.featured %}{% include project-card.html project=project %}{% endif %}{% endfor %}
+  </div>
+</section>
+<section class="selected-section" aria-labelledby="selected-heading">
+  <div class="section-heading"><h2 id="selected-heading">Selected publications</h2><a href="{{ '/publications/' | relative_url }}">Full bibliography <span aria-hidden="true">↗</span></a></div>
+  {% for publication in site.data.publications %}{% if publication.selected and publication.hidden != true %}{% include publication-item.html publication=publication %}{% endif %}{% endfor %}
+</section>

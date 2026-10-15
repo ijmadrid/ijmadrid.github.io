@@ -1,0 +1,65 @@
+# Your additions live here; automatic imports never edit this file.
+# Match stable ids, doi:10.xxxx/..., arxiv:xxxx.xxxxx or orcid:put-code.
+# A null resource removes that link. See UPDATE_GUIDE.md.
+
+plasticity-2026:
+  doi: 10.1007/s00285-026-02396-0
+  selected: true
+  projects:
+  - cell-growth
+ergodicity:
+  doi: 10.1007/s10440-023-00597-z
+  aliases:
+  - arxiv:2212.03163
+  - hal:hal-03885141
+  selected: true
+  projects:
+  - cell-growth
+  links:
+    manuscript: /files/AM_Exponential_ergodicity_of_a_degenerate_age_size_piecewise_deterministic_process.pdf
+    preprint: https://arxiv.org/abs/2212.03163
+    read_only: https://rdcu.be/dkOaZ
+nanoconfined-dna:
+  doi: 10.1021/acsnano.3c04349
+  projects:
+  - biosensors
+noise-suppression-2020:
+  doi: 10.1038/s41598-020-69493-y
+  projects:
+  - biosensors
+qbiol-2025:
+  doi: 10.1038/s42004-025-01603-1
+  selected: false
+  projects:
+  - biosensors
+sos-size-control:
+  arxiv: '2409.17168'
+  authors:
+  - name: Ignacio Madrid
+    given: Ignacio
+    family: Madrid
+  - name: James Broughton
+    given: James
+    family: Broughton
+  - name: Sylvie Méléard
+    given: Sylvie
+    family: Méléard
+  - name: Meriem El Karoui
+    given: Meriem
+    family: El Karoui
+  projects:
+  - cell-growth
+myxobacteria-2024:
+  date: '2024-11-18'
+  venue: 'ESAIM: Proceedings and Surveys'
+  projects:
+  - cell-growth
+  doi: 10.1051/proc/202477195
+doi:10.35848/1347-4065/abdc87:
+  projects:
+  - biosensors
+doi:10.70675/b96fccd5zd20bz4b64zbd80z80987285f069:
+  projects:
+  - cell-growth
+  links:
+    thesis: /files/Manuscrit_2depot.pdf

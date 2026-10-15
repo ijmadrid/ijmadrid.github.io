@@ -1,0 +1,32 @@
+- id: reinforcement
+  title: Reinforced populations
+  topic: Branching processes
+  summary: Memory, phenotypic plasticity and selection in growing populations.
+  url: /research/reinforcement/
+  image: /images/reinforcement.png
+  image_alt: Inherited strategies and reinforcement along a branching genealogy.
+  featured: true
+- id: cell-growth
+  title: Cell growth under stress
+  topic: Mathematical biology
+  summary: From single-cell growth and division to population heterogeneity under antibiotics.
+  url: /research/cell-growth/
+  image: /images/fig_ecoligrowth.png
+  image_alt: Single-cell measurements of size and stress response, with a population model.
+  featured: true
+- id: reaction-networks
+  title: Stochastic reaction networks
+  topic: Fluctuations and large deviations
+  summary: Probability models for chemical reactions in growing biological systems.
+  url: /research/reaction-networks/
+  image: /assets/images/reaction-network.svg
+  image_alt: Schematic reaction network with interconverting chemical species.
+  featured: true
+- id: biosensors
+  title: Electron counting in biosensors
+  topic: Biophysics and biosensors
+  summary: Counting statistics and stochastic modelling of DNA-based electrical measurements.
+  url: /research/biosensors/
+  image: /assets/images/electron-transfer.svg
+  image_alt: Schematic electron transfer between a tethered redox-labelled molecule and an electrode.
+  featured: true

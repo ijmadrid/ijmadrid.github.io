@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 330" role="img" aria-labelledby="title desc">
+<title id="title">Molecular electron transfer</title><desc id="desc">A flexible tether connects a redox-labelled molecule to an electrode; a dashed arrow indicates electron transfer.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 10 5 0 10Z" fill="#537587"/></marker></defs>
+<rect width="600" height="330" fill="#fbfcfd"/><rect x="90" y="255" width="420" height="16" rx="2" fill="#b7c8d0"/>
+<path d="M220 255C175 218 265 204 229 169S271 119 308 129 333 171 367 153" fill="none" stroke="#6d8992" stroke-width="4"/>
+<circle cx="385" cy="144" r="24" fill="#dbe9e8" stroke="#537587" stroke-width="2"/>
+<path d="M385 177V240" fill="none" stroke="#537587" stroke-width="2" stroke-dasharray="5 6" marker-end="url(#arrow)"/>
+<g fill="#48646f" font-family="Arial,sans-serif" font-size="17"><text x="421" y="151">redox label</text><text x="402" y="213">e⁻</text><text x="93" y="230">electrode</text><text x="138" y="126">tether</text></g>
+</svg>

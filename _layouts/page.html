@@ -1,0 +1,12 @@
+---
+layout: base
+---
+<article class="page-content">
+  <header class="page-header">
+    {% if page.eyebrow %}<p class="eyebrow">{{ page.eyebrow | escape }}</p>{% endif %}
+    <h1>{{ page.title | escape }}</h1>
+    {% if page.description %}<p class="page-description">{{ page.description | escape }}</p>{% endif %}
+  </header>
+  {% if page.collection == 'talks' %}<p class="small-note">{{ page.date | date: '%d %B %Y' }} · {{ page.venue | escape }}<br>{{ page.location | escape }}</p>{% endif %}
+  {{ content }}
+</article>

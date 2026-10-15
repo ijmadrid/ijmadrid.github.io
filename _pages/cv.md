@@ -1,28 +1,22 @@
 ---
-layout: archive
-title: "Curriculum vitæ"
+layout: page
+title: Curriculum vitæ
 permalink: /cv/
-author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<div class="text-links"><a href="{{ '/files/CV.pdf' | relative_url }}">Detailed CV (PDF)</a><a href="{{ '/files/Manuscrit_2depot.pdf' | relative_url }}">Doctoral thesis (PDF)</a></div>
 
-
-Work
-=======
-* 04/2024 - Specially Appointed Researcher (Postdoctoral fellow), T. J. Kobayashi Lab, Institute of Industrial Science, The University of Tokyo
-* 02/2044 - 03/2024 ERC-founded postdoc, CMAP École polytechnique and Inria project-team MERGE
-
-Education
-=======
-* Ph.D. in Applied Mathematics, CMAP École polytechnique
-  * Doctoral thesis : *"Model of Cellular Growth under Stress: Emergence of Heterogeneity and Impact of the Environment"* , under the supervision of Sylvie Méléard and Meriem El Karoui. Defended on February 2024.
-
-* M.Sc. [Applied Mathematics to Life Sciences (MSV)](https://sites.google.com/view/m2-msv/accueil), Université Paris-Saclay
-  * Masters memoir : *Counting statistics of single-electron transfer in a redox-labeled biological motor* , under the supervision of Nicolas Clémenet. Work conducted on the [Fujii Lab](http://www.microfluidics.iis.u-tokyo.ac.jp/) @ Institute of Industrial Sciences, the University of Tokyo ; [LIMMS](https://limmshp.iis.u-tokyo.ac.jp/) CNRS UMI 2820 
-* Ingénieur polytechnicien, École polytechnique
-* Mathematical and Computational Engineering, [IMC](https://imc.uc.cl) Pontificia Universidad Católica de Chile
-
-[**Detailed CV in PDF**](/files/CV.pdf)
+<section class="cv-section">
+<h2>Research positions</h2>
+<div class="cv-entry"><span class="cv-date">April 2024–</span><div><h3>Postdoctoral researcher</h3><p>T. J. Kobayashi Lab, Institute of Industrial Science, The University of Tokyo.</p></div></div>
+<div class="cv-entry"><span class="cv-date">Feb.–March 2024</span><div><h3>ERC-funded postdoctoral researcher</h3><p>CMAP, École polytechnique, and Inria project-team MERGE.</p></div></div>
+</section>
+<section class="cv-section">
+<h2>Education</h2>
+<div class="cv-entry"><span class="cv-date">2020–2024</span><div><h3>Ph.D. in Applied Mathematics</h3><p>CMAP, École polytechnique. Supervised by Sylvie Méléard and Meriem El Karoui.</p><p><em>Model of Cellular Growth under Stress: Emergence of Heterogeneity and Impact of the Environment.</em></p></div></div>
+<div class="cv-entry"><span class="cv-date">2018–2019</span><div><h3>M.Sc. in Applied Mathematics for Life Sciences</h3><p>Université Paris-Saclay.</p><p>Master’s dissertation on counting statistics of single-electron transfer in a redox-labelled biological motor, supervised by Nicolas Clément at the Fujii Lab and LIMMS, University of Tokyo.</p></div></div>
+<div class="cv-entry"><span class="cv-date">2015–2019</span><div><h3>Engineering degree (Ingénieur polytechnicien)</h3><p>École polytechnique.</p></div></div>
+<div class="cv-entry"><span class="cv-date">2013–2020</span><div><h3>Engineering degree in Mathematical and Computational Engineering</h3><p>Pontificia Universidad Católica de Chile.</p></div></div>
+</section>

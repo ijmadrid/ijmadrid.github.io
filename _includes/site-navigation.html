@@ -1,0 +1,6 @@
+<nav class="site-navigation" aria-label="Main navigation">
+  {% for item in site.data.navigation.main %}
+    {% assign active = false %}{% if item.url == '/' and page.url == '/' %}{% assign active = true %}{% elsif item.url != '/' and page.url contains item.url %}{% assign active = true %}{% endif %}
+    <a href="{{ item.url | relative_url }}"{% if active %} aria-current="page"{% endif %}>{{ item.title | escape }}</a>
+  {% endfor %}
+</nav>

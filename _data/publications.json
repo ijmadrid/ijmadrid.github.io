@@ -1,0 +1,872 @@
+[
+  {
+    "id": "growing-crn-2026",
+    "title": "Large-deviations theory for growing chemical reaction networks",
+    "date": "2026-09-25",
+    "kind": "preprint",
+    "arxiv": "2609.30970",
+    "aliases": [
+      "doi:10.48550/arxiv.2609.30970"
+    ],
+    "authors": [
+      {
+        "name": "Praful Gagrani",
+        "given": "Praful",
+        "family": "Gagrani",
+        "is_self": false
+      },
+      {
+        "name": "Ignacio Madrid",
+        "given": "Ignacio",
+        "family": "Madrid",
+        "is_self": true
+      },
+      {
+        "name": "Tetsuya J Kobayashi",
+        "given": "Tetsuya J",
+        "family": "Kobayashi",
+        "is_self": false
+      }
+    ],
+    "links": {
+      "preprint": "https://arxiv.org/abs/2609.30970"
+    },
+    "projects": [
+      "reaction-networks"
+    ],
+    "selected": true,
+    "year": 2026,
+    "kind_label": "Preprint",
+    "url": "/publications/growing-crn-2026/",
+    "primary_url": "https://arxiv.org/abs/2609.30970",
+    "resources": [
+      {
+        "label": "Preprint",
+        "url": "https://arxiv.org/abs/2609.30970"
+      }
+    ],
+    "bibtex": "@misc{growing-crn-2026,\n  title = {Large-deviations theory for growing chemical reaction networks},\n  author = {Gagrani, Praful and Madrid, Ignacio and Kobayashi, Tetsuya J},\n  year = {2026},\n  eprint = {2609.30970},\n  archivePrefix = {arXiv}\n}"
+  },
+  {
+    "id": "plasticity-2026",
+    "title": "Phenotypic plasticity trade-offs in an age-structured model of bacterial growth under stress",
+    "date": "2026-07",
+    "venue": "Journal of Mathematical Biology",
+    "kind": "article",
+    "doi": "10.1007/s00285-026-02396-0",
+    "arxiv": "",
+    "authors": [
+      {
+        "given": "Meriem",
+        "family": "El Karoui",
+        "name": "Meriem El Karoui",
+        "orcid": "",
+        "is_self": false
+      },
+      {
+        "given": "Ignacio",
+        "family": "Madrid",
+        "name": "Ignacio Madrid",
+        "orcid": "https://orcid.org/0000-0001-7484-2073",
+        "is_self": true
+      },
+      {
+        "given": "Sylvie",
+        "family": "Méléard",
+        "name": "Sylvie Méléard",
+        "orcid": "",
+        "is_self": false
+      }
+    ],
+    "links": {
+      "article": "https://link.springer.com/article/10.1007/s00285-026-02396-0"
+    },
+    "abstract": "Abstract Under low concentrations of antibiotics causing DNA damage, Escherichia coli bacteria can trigger stochastically a stress response known as the SOS response. While the expression of this stress response can make individual cells transiently able to overcome antibiotic treatment, it can also delay cell division, thus impacting the whole population’s ability to grow and survive. In order to study the trade-offs that emerge from this phenomenon, we propose a bi-type age-structured population model that captures the phenotypic plasticity observed in the stress response. Individuals can belong to two types: either a fast-dividing but prone to death “vulnerable” type, or a slow-dividing but “tolerant” type. We study the survival probability of the population issued from a single cell as well as the population growth rate in constant and periodic environments. We show that the sensitivity of these two different notions of fitness with respect to the parameters describing the phenotypic plasticity differs between the stochastic approach (survival probability) and the deterministic approach (population growth rate). Moreover, under a more realistic configuration of periodic stress, our results indicate that maximal population growth can only be achieved through fine-tuning simultaneously both the induction of the stress response and the repair efficiency of the damage caused by the antibiotic.",
+    "note": "",
+    "url": "/publications/bitype/",
+    "legacy": true,
+    "source": [
+      "crossref",
+      "legacy",
+      "orcid"
+    ],
+    "aliases": [
+      "doi:10.1007/s00285-026-02396-0",
+      "orcid:218601378",
+      "plasticity-2026",
+      "work-91325a91b941"
+    ],
+    "selected": true,
+    "projects": [
+      "cell-growth"
+    ],
+    "volume": "93",
+    "issue": "1",
+    "put_codes": [
+      218601378
+    ],
+    "year": 2026,
+    "kind_label": "Article",
+    "primary_url": "https://link.springer.com/article/10.1007/s00285-026-02396-0",
+    "resources": [
+      {
+        "label": "Article",
+        "url": "https://link.springer.com/article/10.1007/s00285-026-02396-0"
+      }
+    ],
+    "bibtex": "@article{plasticity-2026,\n  title = {Phenotypic plasticity trade-offs in an age-structured model of bacterial growth under stress},\n  author = {El Karoui, Meriem and Madrid, Ignacio and Méléard, Sylvie},\n  year = {2026},\n  journal = {Journal of Mathematical Biology},\n  doi = {10.1007/s00285-026-02396-0},\n  volume = {93}\n}"
+  },
+  {
+    "id": "qbiol-2025",
+    "title": "Quantum bioelectrochemical (QBIOL) software based on point stochastic processes",
+    "date": "2025-07-19",
+    "venue": "Communications Chemistry",
+    "kind": "article",
+    "doi": "10.1038/s42004-025-01603-1",
+    "arxiv": "",
+    "authors": [
+      {
+        "given": "Simon",
+        "family": "Grall",
+        "name": "Simon Grall",
+        "orcid": "https://orcid.org/0000-0002-4554-4242",
+        "is_self": false
+      },
+      {
+        "given": "Ignacio",
+        "family": "Madrid",
+        "name": "Ignacio Madrid",
+        "orcid": "",
+        "is_self": true
+      },
+      {
+        "given": "Aramis",
+        "family": "Dufour",
+        "name": "Aramis Dufour",
+        "orcid": "",
+        "is_self": false
+      },
+      {
+        "given": "Helen",
+        "family": "Sands",
+        "name": "Helen Sands",
+        "orcid": "",
+        "is_self": false
+      },
+      {
+        "given": "Masaki",
+        "family": "Kato",
+        "name": "Masaki Kato",
+        "orcid": "",
+        "is_self": false
+      },
+      {
+        "given": "Akira",
+        "family": "Fujiwara",
+        "name": "Akira Fujiwara",
+        "orcid": "https://orcid.org/0000-0001-9173-8614",
+        "is_self": false
+      },
+      {
+        "given": "Soo Hyeon",
+        "family": "Kim",
+        "name": "Soo Hyeon Kim",
+        "orcid": "",
+        "is_self": false
+      },
+      {
+        "given": "Arnaud",
+        "family": "Chovin",
+        "name": "Arnaud Chovin",
+        "orcid": "",
+        "is_self": false
+      },
+      {
+        "given": "Christophe",
+        "family": "Demaille",
+        "name": "Christophe Demaille",
+        "orcid": "",
+        "is_self": false
+      },
+      {
+        "given": "Nicolas",
+        "family": "Clément",
+        "name": "Nicolas Clément",
+        "orcid": "",
+        "is_self": false
+      }
+    ],
+    "links": {
+      "article": "https://www.nature.com/articles/s42004-025-01603-1"
+    },
+    "abstract": "",
+    "note": "",
+    "url": "/publications/qbiol/",
+    "legacy": true,
+    "source": [
+      "crossref",
+      "legacy"
+    ],
+    "aliases": [
+      "doi:10.1038/s42004-025-01603-1",
+      "qbiol-2025"
+    ],
+    "selected": false,
+    "projects": [
+      "biosensors"
+    ],
+    "volume": "8",
+    "issue": "1",
+    "put_codes": [],
+    "year": 2025,
+    "kind_label": "Article",
+    "primary_url": "https://www.nature.com/articles/s42004-025-01603-1",
+    "resources": [
+      {
+        "label": "Article",
+        "url": "https://www.nature.com/articles/s42004-025-01603-1"
+      }
+    ],
+    "bibtex": "@article{qbiol-2025,\n  title = {Quantum bioelectrochemical (QBIOL) software based on point stochastic processes},\n  author = {Grall, Simon and Madrid, Ignacio and Dufour, Aramis and Sands, Helen and Kato, Masaki and Fujiwara, Akira and Kim, Soo Hyeon and Chovin, Arnaud and Demaille, Christophe and Clément, Nicolas},\n  year = {2025},\n  journal = {Communications Chemistry},\n  doi = {10.1038/s42004-025-01603-1},\n  volume = {8}\n}"
+  },
+  {
+    "id": "myxobacteria-2024",
+    "title": "Regime switching on the propagation speed of travelling waves of some size-structured Myxobacteria population models",
+    "date": "2024-11-18",
+    "venue": "ESAIM: Proceedings and Surveys",
+    "kind": "article",
+    "doi": "10.1051/proc/202477195",
+    "arxiv": "",
+    "authors": [
+      {
+        "given": "Vincent",
+        "family": "Calvez",
+        "name": "Vincent Calvez",
+        "orcid": "",
+        "is_self": false
+      },
+      {
+        "given": "Adil",
+        "family": "El Abdouni",
+        "name": "Adil El Abdouni",
+        "orcid": "",
+        "is_self": false
+      },
+      {
+        "given": "Maxime",
+        "family": "Estavoyer",
+        "name": "Maxime Estavoyer",
+        "orcid": "",
+        "is_self": false
+      },
+      {
+        "given": "Ignacio",
+        "family": "Madrid",
+        "name": "Ignacio Madrid",
+        "orcid": "",
+        "is_self": true
+      },
+      {
+        "given": "Julien",
+        "family": "Olivier",
+        "name": "Julien Olivier",
+        "orcid": "",
+        "is_self": false
+      },
+      {
+        "given": "Magali",
+        "family": "Tournus",
+        "name": "Magali Tournus",
+        "orcid": "",
+        "is_self": false
+      }
+    ],
+    "links": {
+      "hal": "https://hal.science/hal-04532644/"
+    },
+    "abstract": "The spatial propagation of complex populations can depend on some structuring variables. In particular, recent developments in microscopy have revealed the impact of bacteria heterogeneity on the population motility. Biofilms of Myxococcus xanthus bacteria have been shown to be structured in clusters of various sizes, which remarkably, tend to move faster when they consist of a larger number of bacteria. We propose a minimal reaction-diffusion discrete-size structure model of a population of Myxococcus with two possible cluster sizes: isolated and paired bacteria. Numerical experiments show that this model exhibits travelling waves whose propagation speed depends on the increased motility of clusters, and the exchange rates between isolated bacteria and clusters. Notably, we present evidence of the existence of a characteristic threshold level θ*. on the ratio between cluster motility and isolated bacteria motility, which separates two distinct regimes of propagation speed. When the ratio is less or equal than θ*, the propagation speed of the population is constant with respect to the ratio. However, when the ratio is above θ*, the propagation speed increases. We also consider a generalised model with continuous-size structure, which also shows the same behaviour. We extend the model to include interactions with a resource population, which show qualitative behaviours in agreement to the biological experiments.",
+    "note": "",
+    "url": "/publications/cemracs/",
+    "legacy": true,
+    "source": [
+      "crossref",
+      "legacy"
+    ],
+    "aliases": [
+      "doi:10.1051/proc/202477195",
+      "myxobacteria-2024"
+    ],
+    "projects": [
+      "cell-growth"
+    ],
+    "volume": "77",
+    "pages": "195-212",
+    "put_codes": [],
+    "year": 2024,
+    "kind_label": "Article",
+    "primary_url": "https://hal.science/hal-04532644/",
+    "resources": [
+      {
+        "label": "HAL",
+        "url": "https://hal.science/hal-04532644/"
+      }
+    ],
+    "bibtex": "@article{myxobacteria-2024,\n  title = {Regime switching on the propagation speed of travelling waves of some size-structured Myxobacteria population models},\n  author = {Calvez, Vincent and El Abdouni, Adil and Estavoyer, Maxime and Madrid, Ignacio and Olivier, Julien and Tournus, Magali},\n  year = {2024},\n  journal = {ESAIM: Proceedings and Surveys},\n  doi = {10.1051/proc/202477195},\n  volume = {77},\n  pages = {195-212}\n}"
+  },
+  {
+    "id": "sos-size-control",
+    "title": "Quantitative effects of the stress response to DNA damage in the cell size control of Escherichia coli",
+    "date": "2024-09-12",
+    "venue": "",
+    "kind": "preprint",
+    "doi": "",
+    "arxiv": "2409.17168",
+    "authors": [
+      {
+        "name": "Ignacio Madrid",
+        "given": "Ignacio",
+        "family": "Madrid",
+        "is_self": true
+      },
+      {
+        "name": "James Broughton",
+        "given": "James",
+        "family": "Broughton",
+        "is_self": false
+      },
+      {
+        "name": "Sylvie Méléard",
+        "given": "Sylvie",
+        "family": "Méléard",
+        "is_self": false
+      },
+      {
+        "name": "Meriem El Karoui",
+        "given": "Meriem",
+        "family": "El Karoui",
+        "is_self": false
+      }
+    ],
+    "links": {
+      "preprint": "https://arxiv.org/abs/2409.17168"
+    },
+    "abstract": "",
+    "note": "",
+    "url": "/publications/adder_plus_sos/",
+    "legacy": true,
+    "source": [
+      "legacy"
+    ],
+    "aliases": [
+      "arxiv:2409.17168",
+      "sos-size-control"
+    ],
+    "projects": [
+      "cell-growth"
+    ],
+    "year": 2024,
+    "kind_label": "Preprint",
+    "primary_url": "https://arxiv.org/abs/2409.17168",
+    "resources": [
+      {
+        "label": "Preprint",
+        "url": "https://arxiv.org/abs/2409.17168"
+      }
+    ],
+    "bibtex": "@misc{sos-size-control,\n  title = {Quantitative effects of the stress response to DNA damage in the cell size control of Escherichia coli},\n  author = {Madrid, Ignacio and Broughton, James and Méléard, Sylvie and El Karoui, Meriem},\n  year = {2024},\n  eprint = {2409.17168},\n  archivePrefix = {arXiv}\n}"
+  },
+  {
+    "id": "work-0f1cf4641f0c",
+    "title": "Model of Cellular Growth under Stress : Emergence of Heterogeneity and Impact of the Environment",
+    "doi": "10.70675/b96fccd5zd20bz4b64zbd80z80987285f069",
+    "arxiv": "",
+    "kind": "thesis",
+    "date": "2024-02-09",
+    "venue": "",
+    "authors": [
+      {
+        "given": "Ignacio",
+        "family": "Madrid Canales",
+        "name": "Ignacio Madrid Canales",
+        "orcid": "https://orcid.org/0000-0001-7484-2073",
+        "is_self": true
+      }
+    ],
+    "links": {
+      "article": "https://doi.org/10.70675/b96fccd5zd20bz4b64zbd80z80987285f069",
+      "thesis": "/files/Manuscrit_2depot.pdf"
+    },
+    "put_codes": [
+      220109223
+    ],
+    "aliases": [
+      "doi:10.70675/b96fccd5zd20bz4b64zbd80z80987285f069",
+      "orcid:220109223",
+      "work-0f1cf4641f0c"
+    ],
+    "source": [
+      "crossref",
+      "orcid"
+    ],
+    "abstract": "Modèle de croissance cellulaire sous l’action d’un stress : Émergence d’hétérogénéité et impact de l’environnement Cette thèse porte sur l'analyse statistique et mathématique de la croissance cellulaire à l'échelle individuelle sous l'effet d'un stress. À partir de l'analyse des données recueillies par Sebastián Jaramillo et James Broughton sous la direction de Meriem El Karoui, nous avons construit différents modèles permettant une compréhension à différents niveaux de l'impact que la réponse hétérogène au stress génotoxique (réponse SOS) a sur la croissance d'une population de bactéries Escherichia coli. Pour modéliser la dynamique de ces populations on utilise des processus stochastiques à valeurs mesures.Nous construisons tout d'abord on construit un modèle stochastique basé sur le modèle \"adder\" de contrôle de la taille, étendu pour incorporer la dynamique de la réponse SOS et son effet sur la division cellulaire. Le cadre choisi est paramétrique et le modèle est ajusté par maximum de vraisemblance aux données de lignées individuelles obtenues en mother machine. Cela nous permet de comparer quantitativement les paramètres inférés dans différents environnements.Nous nous intéressons ensuite aux propriétés ergodiques d'un modèle plus général que \"adder\", répondant à des questions ouvertes sur son comportement en temps long. On considère un flot déterministe général et un noyau de fragmentation non nécessairement auto-similaire. Nous montrons l'existence des éléments propres. Ensuite, une dollar_h_dollar-transformée de Doob avec la fonction propre nous ramène à l'étude d'un processus conservatif. Enfin, en montrant une propriété de petite set pour les compacts de l'espace d'états, nous obtenons alors la convergence exponentielle du modèle.Finalement, nous considérons un modèle bitype structuré en âge modélisant la plasticité phénotypique observée dans la réponse au stress. Nous étudions la probabilité de survie et le taux de croissance de la population en environnement constant et périodique. Nous mettons en lumière un trade-off pour avoir la survie de la population, ainsi qu'une sensibilité par rapport aux paramètres du modèle qui n'est pas la même pour la probabilité de survie et pour le taux de croissance.Nous concluons avec une section indépendante, initiée durant le CEMRACS 2022. Nous étudions numériquement la propagation spatiale des populations structurés en taille modélisant le mouvement collectif de clusters de Myxobactéries à travers de systèmes d'équations de réaction-diffusion.",
+    "projects": [
+      "cell-growth"
+    ],
+    "year": 2024,
+    "kind_label": "Doctoral thesis",
+    "url": "/publications/work-0f1cf4641f0c/",
+    "primary_url": "/files/Manuscrit_2depot.pdf",
+    "resources": [
+      {
+        "label": "Article",
+        "url": "https://doi.org/10.70675/b96fccd5zd20bz4b64zbd80z80987285f069"
+      },
+      {
+        "label": "Thesis PDF",
+        "url": "/files/Manuscrit_2depot.pdf"
+      }
+    ],
+    "bibtex": "@phdthesis{work-0f1cf4641f0c,\n  title = {Model of Cellular Growth under Stress : Emergence of Heterogeneity and Impact of the Environment},\n  author = {Madrid Canales, Ignacio},\n  year = {2024},\n  doi = {10.70675/b96fccd5zd20bz4b64zbd80z80987285f069},\n  school = {École polytechnique}\n}"
+  },
+  {
+    "id": "ergodicity",
+    "title": "Exponential Ergodicity of a Degenerate Age-Size Piecewise Deterministic Process",
+    "date": "2023-10",
+    "venue": "Acta Applicandae Mathematicae",
+    "kind": "article",
+    "doi": "10.1007/s10440-023-00597-z",
+    "arxiv": "2212.03163",
+    "authors": [
+      {
+        "given": "Ignacio",
+        "family": "Madrid",
+        "name": "Ignacio Madrid",
+        "orcid": "https://orcid.org/0000-0001-7484-2073",
+        "is_self": true
+      }
+    ],
+    "links": {
+      "hal": "https://hal.science/hal-03885141",
+      "preprint": "https://arxiv.org/abs/2212.03163",
+      "article": "https://doi.org/10.1007/s10440-023-00597-z",
+      "manuscript": "/files/AM_Exponential_ergodicity_of_a_degenerate_age_size_piecewise_deterministic_process.pdf",
+      "read_only": "https://rdcu.be/dkOaZ"
+    },
+    "abstract": "",
+    "note": "",
+    "url": "/publications/acap_expergo/",
+    "legacy": true,
+    "source": [
+      "crossref",
+      "legacy",
+      "orcid"
+    ],
+    "aliases": [
+      "arxiv:2212.03163",
+      "doi:10.1007/s10440-023-00597-z",
+      "ergodicity",
+      "hal:hal-03885141",
+      "orcid:130526335",
+      "orcid:141423677",
+      "work-2153be01a8e5",
+      "work-39b001a441f9"
+    ],
+    "selected": true,
+    "projects": [
+      "cell-growth"
+    ],
+    "volume": "187",
+    "issue": "1",
+    "put_codes": [
+      130526335,
+      141423677
+    ],
+    "year": 2023,
+    "kind_label": "Article",
+    "primary_url": "https://doi.org/10.1007/s10440-023-00597-z",
+    "resources": [
+      {
+        "label": "Article",
+        "url": "https://doi.org/10.1007/s10440-023-00597-z"
+      },
+      {
+        "label": "Author manuscript",
+        "url": "/files/AM_Exponential_ergodicity_of_a_degenerate_age_size_piecewise_deterministic_process.pdf"
+      },
+      {
+        "label": "Preprint",
+        "url": "https://arxiv.org/abs/2212.03163"
+      },
+      {
+        "label": "HAL",
+        "url": "https://hal.science/hal-03885141"
+      },
+      {
+        "label": "Read online",
+        "url": "https://rdcu.be/dkOaZ"
+      }
+    ],
+    "bibtex": "@article{ergodicity,\n  title = {Exponential Ergodicity of a Degenerate Age-Size Piecewise Deterministic Process},\n  author = {Madrid, Ignacio},\n  year = {2023},\n  journal = {Acta Applicandae Mathematicae},\n  doi = {10.1007/s10440-023-00597-z},\n  eprint = {2212.03163},\n  archivePrefix = {arXiv},\n  volume = {187}\n}"
+  },
+  {
+    "id": "nanoconfined-dna",
+    "title": "Ballistic Brownian Motion of Nanoconfined DNA",
+    "date": "2023-08-24",
+    "venue": "ACS Nano",
+    "kind": "article",
+    "doi": "10.1021/acsnano.3c04349",
+    "arxiv": "",
+    "authors": [
+      {
+        "given": "Ignacio",
+        "family": "Madrid",
+        "name": "Ignacio Madrid",
+        "orcid": "",
+        "is_self": true
+      },
+      {
+        "given": "Zhiyong",
+        "family": "Zheng",
+        "name": "Zhiyong Zheng",
+        "orcid": "https://orcid.org/0000-0002-7276-7425",
+        "is_self": false
+      },
+      {
+        "given": "Cedric",
+        "family": "Gerbelot",
+        "name": "Cedric Gerbelot",
+        "orcid": "",
+        "is_self": false
+      },
+      {
+        "given": "Akira",
+        "family": "Fujiwara",
+        "name": "Akira Fujiwara",
+        "orcid": "",
+        "is_self": false
+      },
+      {
+        "given": "Shuo",
+        "family": "Li",
+        "name": "Shuo Li",
+        "orcid": "https://orcid.org/0000-0003-1440-7541",
+        "is_self": false
+      },
+      {
+        "given": "Simon",
+        "family": "Grall",
+        "name": "Simon Grall",
+        "orcid": "",
+        "is_self": false
+      },
+      {
+        "given": "Katsuhiko",
+        "family": "Nishiguchi",
+        "name": "Katsuhiko Nishiguchi",
+        "orcid": "",
+        "is_self": false
+      },
+      {
+        "given": "Soo Hyeon",
+        "family": "Kim",
+        "name": "Soo Hyeon Kim",
+        "orcid": "https://orcid.org/0000-0001-9842-9523",
+        "is_self": false
+      },
+      {
+        "given": "Arnaud",
+        "family": "Chovin",
+        "name": "Arnaud Chovin",
+        "orcid": "https://orcid.org/0000-0002-1964-520X",
+        "is_self": false
+      },
+      {
+        "given": "Christophe",
+        "family": "Demaille",
+        "name": "Christophe Demaille",
+        "orcid": "",
+        "is_self": false
+      },
+      {
+        "given": "Nicolas",
+        "family": "Clement",
+        "name": "Nicolas Clement",
+        "orcid": "https://orcid.org/0000-0002-4924-4087",
+        "is_self": false
+      }
+    ],
+    "links": {
+      "article": "https://doi.org/10.1021/acsnano.3c04349"
+    },
+    "abstract": "",
+    "note": "",
+    "url": "/publications/acsnano/",
+    "legacy": true,
+    "source": [
+      "crossref",
+      "legacy",
+      "orcid"
+    ],
+    "aliases": [
+      "doi:10.1021/acsnano.3c04349",
+      "nanoconfined-dna",
+      "orcid:141356031",
+      "work-fa0f98c26f0e"
+    ],
+    "projects": [
+      "biosensors"
+    ],
+    "volume": "17",
+    "issue": "17",
+    "pages": "17031-17040",
+    "put_codes": [
+      141356031
+    ],
+    "year": 2023,
+    "kind_label": "Article",
+    "primary_url": "https://doi.org/10.1021/acsnano.3c04349",
+    "resources": [
+      {
+        "label": "Article",
+        "url": "https://doi.org/10.1021/acsnano.3c04349"
+      }
+    ],
+    "bibtex": "@article{nanoconfined-dna,\n  title = {Ballistic Brownian Motion of Nanoconfined DNA},\n  author = {Madrid, Ignacio and Zheng, Zhiyong and Gerbelot, Cedric and Fujiwara, Akira and Li, Shuo and Grall, Simon and Nishiguchi, Katsuhiko and Kim, Soo Hyeon and Chovin, Arnaud and Demaille, Christophe and Clement, Nicolas},\n  year = {2023},\n  journal = {ACS Nano},\n  doi = {10.1021/acsnano.3c04349},\n  volume = {17},\n  pages = {17031-17040}\n}"
+  },
+  {
+    "id": "work-e2885e18b629",
+    "title": "Single-trap phenomena stochastic switching for noise suppression in nanowire FET biosensors",
+    "doi": "10.35848/1347-4065/abdc87",
+    "arxiv": "",
+    "kind": "article",
+    "date": "2021-02-03",
+    "venue": "Japanese Journal of Applied Physics",
+    "authors": [
+      {
+        "given": "Yurii",
+        "family": "Kutovyi",
+        "name": "Yurii Kutovyi",
+        "orcid": "",
+        "is_self": false
+      },
+      {
+        "given": "Ignacio",
+        "family": "Madrid",
+        "name": "Ignacio Madrid",
+        "orcid": "",
+        "is_self": true
+      },
+      {
+        "given": "Nazarii",
+        "family": "Boichuk",
+        "name": "Nazarii Boichuk",
+        "orcid": "",
+        "is_self": false
+      },
+      {
+        "given": "Soo Hyeon",
+        "family": "Kim",
+        "name": "Soo Hyeon Kim",
+        "orcid": "",
+        "is_self": false
+      },
+      {
+        "given": "Teruo",
+        "family": "Fujii",
+        "name": "Teruo Fujii",
+        "orcid": "",
+        "is_self": false
+      },
+      {
+        "given": "Laurent",
+        "family": "Jalabert",
+        "name": "Laurent Jalabert",
+        "orcid": "",
+        "is_self": false
+      },
+      {
+        "given": "Andreas",
+        "family": "Offenhaeusser",
+        "name": "Andreas Offenhaeusser",
+        "orcid": "",
+        "is_self": false
+      },
+      {
+        "given": "Svetlana",
+        "family": "Vitusevich",
+        "name": "Svetlana Vitusevich",
+        "orcid": "",
+        "is_self": false
+      },
+      {
+        "given": "Nicolas",
+        "family": "Clément",
+        "name": "Nicolas Clément",
+        "orcid": "",
+        "is_self": false
+      }
+    ],
+    "links": {
+      "hal": "https://hal.science/hal-03450390",
+      "article": "https://doi.org/10.35848/1347-4065/abdc87"
+    },
+    "put_codes": [
+      130526336
+    ],
+    "aliases": [
+      "doi:10.35848/1347-4065/abdc87",
+      "hal:hal-03450390",
+      "orcid:130526336",
+      "work-e2885e18b629"
+    ],
+    "source": [
+      "crossref",
+      "orcid"
+    ],
+    "volume": "60",
+    "issue": "SB",
+    "pages": "SBBG03",
+    "abstract": "Abstract With the fast-shrinking of the transistor dimensions, the low-frequency noise level considerably increases emerging as an important parameter for the design of advanced devices for information technologies. Single-trap phenomena (STP) is a promising approach for the low-frequency noise suppression technique in nanotransistor biosensors by considering trapping/detrapping noise as a signal. We show a noise reduction mechanism offered by STP in nanoscale devices making the analogy with stochastic resonance effect found in biological systems by considering a single trap as a bistable stochastically driven nonlinear system which transmits and amplifies the weak signals. The STP noise suppression effect is experimentally demonstrated for the fabricated liquid-gated nanosensors exploiting STP. We found the optimal conditions and parameters including optimized gate voltages to implement a stochastic switching effect for the extraction of useful signals from the background noise level. These results should be considered for the development of reliable and highly sensitive nanoscale biosensors.",
+    "projects": [
+      "biosensors"
+    ],
+    "year": 2021,
+    "kind_label": "Article",
+    "url": "/publications/work-e2885e18b629/",
+    "primary_url": "https://doi.org/10.35848/1347-4065/abdc87",
+    "resources": [
+      {
+        "label": "Article",
+        "url": "https://doi.org/10.35848/1347-4065/abdc87"
+      },
+      {
+        "label": "HAL",
+        "url": "https://hal.science/hal-03450390"
+      }
+    ],
+    "bibtex": "@article{work-e2885e18b629,\n  title = {Single-trap phenomena stochastic switching for noise suppression in nanowire FET biosensors},\n  author = {Kutovyi, Yurii and Madrid, Ignacio and Boichuk, Nazarii and Kim, Soo Hyeon and Fujii, Teruo and Jalabert, Laurent and Offenhaeusser, Andreas and Vitusevich, Svetlana and Clément, Nicolas},\n  year = {2021},\n  journal = {Japanese Journal of Applied Physics},\n  doi = {10.35848/1347-4065/abdc87},\n  volume = {60},\n  pages = {SBBG03}\n}"
+  },
+  {
+    "id": "noise-suppression-2020",
+    "title": "Noise suppression beyond the thermal limit with nanotransistor biosensors",
+    "date": "2020-07",
+    "venue": "Scientific Reports",
+    "kind": "article",
+    "doi": "10.1038/s41598-020-69493-y",
+    "arxiv": "",
+    "authors": [
+      {
+        "given": "Yurii",
+        "family": "Kutovyi",
+        "name": "Yurii Kutovyi",
+        "orcid": "",
+        "is_self": false
+      },
+      {
+        "given": "Ignacio",
+        "family": "Madrid",
+        "name": "Ignacio Madrid",
+        "orcid": "",
+        "is_self": true
+      },
+      {
+        "given": "Ihor",
+        "family": "Zadorozhnyi",
+        "name": "Ihor Zadorozhnyi",
+        "orcid": "",
+        "is_self": false
+      },
+      {
+        "given": "Nazarii",
+        "family": "Boichuk",
+        "name": "Nazarii Boichuk",
+        "orcid": "",
+        "is_self": false
+      },
+      {
+        "given": "Soo Hyeon",
+        "family": "Kim",
+        "name": "Soo Hyeon Kim",
+        "orcid": "",
+        "is_self": false
+      },
+      {
+        "given": "Teruo",
+        "family": "Fujii",
+        "name": "Teruo Fujii",
+        "orcid": "",
+        "is_self": false
+      },
+      {
+        "given": "Laurent",
+        "family": "Jalabert",
+        "name": "Laurent Jalabert",
+        "orcid": "",
+        "is_self": false
+      },
+      {
+        "given": "Andreas",
+        "family": "Offenhaeusser",
+        "name": "Andreas Offenhaeusser",
+        "orcid": "",
+        "is_self": false
+      },
+      {
+        "given": "Svetlana",
+        "family": "Vitusevich",
+        "name": "Svetlana Vitusevich",
+        "orcid": "",
+        "is_self": false
+      },
+      {
+        "given": "Nicolas",
+        "family": "Clément",
+        "name": "Nicolas Clément",
+        "orcid": "",
+        "is_self": false
+      }
+    ],
+    "links": {
+      "hal": "https://hal.science/hal-03101996",
+      "article": "https://www.nature.com/articles/s41598-020-69493-y"
+    },
+    "abstract": "AbstractTransistor biosensors are mass-fabrication-compatible devices of interest for point of care diagnosis as well as molecular interaction studies. While the actual transistor gates in processors reach the sub-10 nm range for optimum integration and power consumption, studies on design rules for the signal-to-noise ratio (S/N) optimization in transistor-based biosensors have been so far restricted to 1 µm2 device gate area, a range where the discrete nature of the defects can be neglected. In this study, which combines experiments and theoretical analysis at both numerical and analytical levels, we extend such investigation to the nanometer range and highlight the effect of doping type as well as the noise suppression opportunities offered at this scale. In particular, we show that, when a single trap is active near the conductive channel, the noise can be suppressed even beyond the thermal limit by monitoring the trap occupancy probability in an approach analog to the stochastic resonance effect used in biological systems.",
+    "note": "",
+    "url": "/publications/2009-10-01-paper-title-number-1/",
+    "legacy": true,
+    "source": [
+      "crossref",
+      "legacy",
+      "orcid"
+    ],
+    "aliases": [
+      "doi:10.1038/s41598-020-69493-y",
+      "hal:hal-03101996",
+      "noise-suppression-2020",
+      "orcid:130526337",
+      "work-af563105a272"
+    ],
+    "projects": [
+      "biosensors"
+    ],
+    "volume": "10",
+    "issue": "1",
+    "put_codes": [
+      130526337
+    ],
+    "year": 2020,
+    "kind_label": "Article",
+    "primary_url": "https://www.nature.com/articles/s41598-020-69493-y",
+    "resources": [
+      {
+        "label": "Article",
+        "url": "https://www.nature.com/articles/s41598-020-69493-y"
+      },
+      {
+        "label": "HAL",
+        "url": "https://hal.science/hal-03101996"
+      }
+    ],
+    "bibtex": "@article{noise-suppression-2020,\n  title = {Noise suppression beyond the thermal limit with nanotransistor biosensors},\n  author = {Kutovyi, Yurii and Madrid, Ignacio and Zadorozhnyi, Ihor and Boichuk, Nazarii and Kim, Soo Hyeon and Fujii, Teruo and Jalabert, Laurent and Offenhaeusser, Andreas and Vitusevich, Svetlana and Clément, Nicolas},\n  year = {2020},\n  journal = {Scientific Reports},\n  doi = {10.1038/s41598-020-69493-y},\n  volume = {10}\n}"
+  }
+]
