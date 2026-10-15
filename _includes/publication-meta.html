@@ -1,0 +1,10 @@
+{% assign metadata_publication = site.data.publications | where: 'id', page.publication_id | first %}
+{% unless metadata_publication %}{% assign metadata_publication = site.data.publications | where: 'url', page.url | first %}{% endunless %}
+{% if metadata_publication %}
+<meta name="citation_title" content="{{ metadata_publication.title | escape }}">
+{% for author in metadata_publication.authors %}<meta name="citation_author" content="{{ author.name | escape }}">{% endfor %}
+{% if metadata_publication.date %}<meta name="citation_publication_date" content="{{ metadata_publication.date | replace: '-', '/' }}">{% endif %}
+{% if metadata_publication.venue %}<meta name="citation_journal_title" content="{{ metadata_publication.venue | escape }}">{% endif %}
+{% if metadata_publication.doi %}<meta name="citation_doi" content="{{ metadata_publication.doi | escape }}">{% endif %}
+{% if metadata_publication.links.manuscript %}<meta name="citation_pdf_url" content="{{ metadata_publication.links.manuscript | absolute_url | escape }}">{% endif %}
+{% endif %}

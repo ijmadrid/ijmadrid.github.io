@@ -1,0 +1,11 @@
+{% assign pub = include.publication %}
+<article class="publication-item" id="{{ pub.id | escape }}">
+  <div class="publication-year">{{ pub.year }}</div>
+  <div class="publication-body">
+    <h3><a href="{{ pub.primary_url | escape }}">{{ pub.title | escape }}</a>{% if pub.kind == 'preprint' %} <span class="publication-status">Preprint</span>{% elsif pub.kind == 'thesis' %} <span class="publication-status">Doctoral thesis</span>{% endif %}</h3>
+    <p class="publication-authors">{% for author in pub.authors %}{% if author.is_self %}<strong>{{ author.name | escape }}</strong>{% else %}{{ author.name | escape }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
+    {% if pub.venue %}<p class="publication-venue"><em>{{ pub.venue | escape }}</em>{% if pub.volume %}, {{ pub.volume | escape }}{% endif %}{% if pub.pages %}, {{ pub.pages | escape }}{% endif %}</p>{% endif %}
+    {% include publication-links.html publication=pub %}
+    {% if pub.abstract %}<details class="publication-abstract"><summary>Abstract</summary><p>{{ pub.abstract | escape }}</p></details>{% endif %}
+  </div>
+</article>

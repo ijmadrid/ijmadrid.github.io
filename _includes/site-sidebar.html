@@ -1,0 +1,14 @@
+<aside class="site-sidebar" aria-label="Profile and contact">
+  <div class="profile">
+    <a class="portrait-link" href="{{ '/' | relative_url }}" aria-label="Ignacio Madrid — homepage"><img class="portrait" src="{{ site.profile.portrait | relative_url }}" alt="Portrait of Ignacio Madrid" width="180" height="225"></a>
+    <a class="profile-name" href="{{ '/' | relative_url }}">{{ site.profile.display_name | escape }}</a>
+    <p class="profile-affiliation"><a class="team-link" href="https://research.crmind.net/">QBIO team <span aria-hidden="true">↗</span></a><br>Institute of Industrial Science<br>The University of Tokyo</p>
+  </div>
+  <div class="profile-links">
+    <a href="mailto:{{ site.profile.email | escape }}">{{ site.profile.email | escape }}</a>
+    <a href="{{ site.author.googlescholar | escape }}">Google Scholar <span aria-hidden="true">↗</span></a>
+    <a href="{{ site.author.orcid | escape }}">ORCID <span aria-hidden="true">↗</span></a>
+    {% if site.author.researchgate %}<a href="{{ site.author.researchgate | escape }}">ResearchGate <span aria-hidden="true">↗</span></a>{% endif %}
+    {% if site.author.linkedin %}<a href="https://www.linkedin.com/in/{{ site.author.linkedin | escape }}/">LinkedIn <span aria-hidden="true">↗</span></a>{% endif %}
+  </div>
+</aside>

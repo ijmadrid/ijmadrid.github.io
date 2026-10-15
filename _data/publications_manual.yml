@@ -1,0 +1,24 @@
+# Works not yet available through the public ORCID import.
+# This arXiv record was verified on 15 October 2026.
+- id: growing-crn-2026
+  title: Large-deviations theory for growing chemical reaction networks
+  date: '2026-09-25'
+  kind: preprint
+  arxiv: '2609.30970'
+  aliases:
+  - doi:10.48550/arxiv.2609.30970
+  authors:
+  - name: Praful Gagrani
+    given: Praful
+    family: Gagrani
+  - name: Ignacio Madrid
+    given: Ignacio
+    family: Madrid
+  - name: Tetsuya J Kobayashi
+    given: Tetsuya J
+    family: Kobayashi
+  links:
+    preprint: https://arxiv.org/abs/2609.30970
+  projects:
+  - reaction-networks
+  selected: true

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 330" role="img" aria-labelledby="title desc">
+<title id="title">Stochastic reaction network</title><desc id="desc">A schematic cycle between three chemical species, with input and output reactions.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 10 5 0 10Z" fill="#6e8178"/></marker></defs>
+<rect width="600" height="330" fill="#fafcfb"/>
+<g fill="none" stroke="#6e8178" stroke-width="2" marker-end="url(#arrow)"><path d="M205 105H385"/><path d="M426 148 333 244"/><path d="M269 247 174 148"/><path d="M75 105H134"/><path d="M456 105H525"/></g>
+<g fill="#e8f0eb" stroke="#8eaa99" stroke-width="1.5"><circle cx="170" cy="105" r="34"/><circle cx="425" cy="105" r="34"/><circle cx="300" cy="275" r="34"/></g>
+<g fill="#365646" text-anchor="middle" font-family="Georgia,serif" font-size="29"><text x="170" y="115">A</text><text x="425" y="115">B</text><text x="300" y="285">C</text></g>
+<g fill="#6b7770" text-anchor="middle" font-family="Arial,sans-serif" font-size="16"><text x="298" y="83">reaction</text><text x="75" y="84">input</text><text x="527" y="84">output</text></g>
+</svg>

@@ -1,0 +1,18 @@
+---
+layout: base
+---
+{% assign publication = site.data.publications | where: 'id', page.publication_id | first %}
+{% unless publication %}{% assign publication = site.data.publications | where: 'url', page.url | first %}{% endunless %}
+<article class="publication-page">
+  <header class="page-header"><p class="eyebrow">{{ publication.kind_label | default: 'Publication' | escape }}{% if publication.year %} · {{ publication.year }}{% endif %}</p><h1>{{ publication.title | default: page.title | escape }}</h1></header>
+  {% if publication %}
+    <p class="publication-authors">{% for author in publication.authors %}{% if author.is_self %}<strong>{{ author.name | escape }}</strong>{% else %}{{ author.name | escape }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
+    {% if publication.venue %}<p class="publication-venue"><em>{{ publication.venue | escape }}</em>{% if publication.volume %}, {{ publication.volume | escape }}{% endif %}{% if publication.pages %}, {{ publication.pages | escape }}{% endif %} · {{ publication.year }}</p>{% endif %}
+    {% include publication-links.html publication=publication %}
+    {% if publication.abstract %}<section class="prose"><h2>Abstract</h2><p>{{ publication.abstract | escape }}</p></section>{% endif %}
+    {% if publication.note %}<div class="prose">{{ publication.note | markdownify }}</div>{% endif %}
+    <div class="prose">{{ content }}</div>
+    <details class="citation"><summary>Cite this work</summary><pre>{{ publication.bibtex | escape }}</pre></details>
+  {% else %}<div class="prose">{{ content }}</div>{% endif %}
+  <p class="back-link"><a href="{{ '/publications/' | relative_url }}">← All publications</a></p>
+</article>
