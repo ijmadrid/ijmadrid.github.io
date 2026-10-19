@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-7484-2073",
-  "fetched_at": "2026-10-15T05:29:20+00:00",
+  "fetched_at": "2026-10-19T11:00:00+00:00",
   "records": [
     {
       "id": "work-91325a91b941",
@@ -39,7 +39,11 @@
       "put_codes": [
         218601378
       ],
-      "aliases": [],
+      "aliases": [
+        "doi:10.1007/s00285-026-02396-0",
+        "orcid:218601378",
+        "work-91325a91b941"
+      ],
       "source": [
         "crossref",
         "orcid"
@@ -71,7 +75,11 @@
       "put_codes": [
         220109223
       ],
-      "aliases": [],
+      "aliases": [
+        "doi:10.70675/b96fccd5zd20bz4b64zbd80z80987285f069",
+        "orcid:220109223",
+        "work-0f1cf4641f0c"
+      ],
       "source": [
         "crossref",
         "orcid"
@@ -101,7 +109,11 @@
       "put_codes": [
         141423677
       ],
-      "aliases": [],
+      "aliases": [
+        "doi:10.1007/s10440-023-00597-z",
+        "orcid:141423677",
+        "work-2153be01a8e5"
+      ],
       "source": [
         "crossref",
         "orcid"
@@ -202,7 +214,11 @@
       "put_codes": [
         141356031
       ],
-      "aliases": [],
+      "aliases": [
+        "doi:10.1021/acsnano.3c04349",
+        "orcid:141356031",
+        "work-fa0f98c26f0e"
+      ],
       "source": [
         "crossref",
         "orcid"
@@ -234,7 +250,10 @@
         130526335
       ],
       "aliases": [
-        "hal:hal-03885141"
+        "arxiv:2212.03163",
+        "hal:hal-03885141",
+        "orcid:130526335",
+        "work-39b001a441f9"
       ],
       "source": [
         "orcid"
@@ -321,7 +340,10 @@
         130526336
       ],
       "aliases": [
-        "hal:hal-03450390"
+        "doi:10.35848/1347-4065/abdc87",
+        "hal:hal-03450390",
+        "orcid:130526336",
+        "work-e2885e18b629"
       ],
       "source": [
         "crossref",
@@ -420,7 +442,10 @@
         130526337
       ],
       "aliases": [
-        "hal:hal-03101996"
+        "doi:10.1038/s41598-020-69493-y",
+        "hal:hal-03101996",
+        "orcid:130526337",
+        "work-af563105a272"
       ],
       "source": [
         "crossref",
@@ -429,6 +454,74 @@
       "volume": "10",
       "issue": "1",
       "abstract": "AbstractTransistor biosensors are mass-fabrication-compatible devices of interest for point of care diagnosis as well as molecular interaction studies. While the actual transistor gates in processors reach the sub-10 nm range for optimum integration and power consumption, studies on design rules for the signal-to-noise ratio (S/N) optimization in transistor-based biosensors have been so far restricted to 1 µm2 device gate area, a range where the discrete nature of the defects can be neglected. In this study, which combines experiments and theoretical analysis at both numerical and analytical levels, we extend such investigation to the nanometer range and highlight the effect of doping type as well as the noise suppression opportunities offered at this scale. In particular, we show that, when a single trap is active near the conductive channel, the noise can be suppressed even beyond the thermal limit by monitoring the trap occupancy probability in an approach analog to the stochastic resonance effect used in biological systems."
+    },
+    {
+      "id": "myxobacteria-2024",
+      "title": "Regime switching on the propagation speed of travelling waves of some size-structured Myxobacteria population models",
+      "date": "2024-11-18",
+      "venue": "ESAIM: Proceedings and Surveys",
+      "kind": "article",
+      "doi": "10.1051/proc/202477195",
+      "arxiv": "",
+      "authors": [
+        {
+          "given": "Vincent",
+          "family": "Calvez",
+          "name": "Vincent Calvez",
+          "orcid": "",
+          "is_self": false
+        },
+        {
+          "given": "Adil",
+          "family": "El Abdouni",
+          "name": "Adil El Abdouni",
+          "orcid": "",
+          "is_self": false
+        },
+        {
+          "given": "Maxime",
+          "family": "Estavoyer",
+          "name": "Maxime Estavoyer",
+          "orcid": "",
+          "is_self": false
+        },
+        {
+          "given": "Ignacio",
+          "family": "Madrid",
+          "name": "Ignacio Madrid",
+          "orcid": "",
+          "is_self": true
+        },
+        {
+          "given": "Julien",
+          "family": "Olivier",
+          "name": "Julien Olivier",
+          "orcid": "",
+          "is_self": false
+        },
+        {
+          "given": "Magali",
+          "family": "Tournus",
+          "name": "Magali Tournus",
+          "orcid": "",
+          "is_self": false
+        }
+      ],
+      "links": {
+        "hal": "https://hal.science/hal-04532644/"
+      },
+      "source": [
+        "crossref",
+        "legacy"
+      ],
+      "aliases": [
+        "doi:10.1051/proc/202477195",
+        "myxobacteria-2024"
+      ],
+      "volume": "77",
+      "pages": "195-212",
+      "abstract": "The spatial propagation of complex populations can depend on some structuring variables. In particular, recent developments in microscopy have revealed the impact of bacteria heterogeneity on the population motility. Biofilms of Myxococcus xanthus bacteria have been shown to be structured in clusters of various sizes, which remarkably, tend to move faster when they consist of a larger number of bacteria. We propose a minimal reaction-diffusion discrete-size structure model of a population of Myxococcus with two possible cluster sizes: isolated and paired bacteria. Numerical experiments show that this model exhibits travelling waves whose propagation speed depends on the increased motility of clusters, and the exchange rates between isolated bacteria and clusters. Notably, we present evidence of the existence of a characteristic threshold level θ*. on the ratio between cluster motility and isolated bacteria motility, which separates two distinct regimes of propagation speed. When the ratio is less or equal than θ*, the propagation speed of the population is constant with respect to the ratio. However, when the ratio is above θ*, the propagation speed increases. We also consider a generalised model with continuous-size structure, which also shows the same behaviour. We extend the model to include interactions with a resource population, which show qualitative behaviours in agreement to the biological experiments.",
+      "put_codes": []
     },
     {
       "id": "qbiol-2025",
@@ -518,76 +611,12 @@
         "legacy"
       ],
       "aliases": [
+        "doi:10.1038/s42004-025-01603-1",
         "qbiol-2025"
       ],
       "volume": "8",
-      "issue": "1"
-    },
-    {
-      "id": "myxobacteria-2024",
-      "title": "Regime switching on the propagation speed of travelling waves of some size-structured Myxobacteria population models",
-      "date": "2024-11-18",
-      "venue": "ESAIM: Proceedings and Surveys",
-      "kind": "article",
-      "doi": "10.1051/proc/202477195",
-      "arxiv": "",
-      "authors": [
-        {
-          "given": "Vincent",
-          "family": "Calvez",
-          "name": "Vincent Calvez",
-          "orcid": "",
-          "is_self": false
-        },
-        {
-          "given": "Adil",
-          "family": "El Abdouni",
-          "name": "Adil El Abdouni",
-          "orcid": "",
-          "is_self": false
-        },
-        {
-          "given": "Maxime",
-          "family": "Estavoyer",
-          "name": "Maxime Estavoyer",
-          "orcid": "",
-          "is_self": false
-        },
-        {
-          "given": "Ignacio",
-          "family": "Madrid",
-          "name": "Ignacio Madrid",
-          "orcid": "",
-          "is_self": true
-        },
-        {
-          "given": "Julien",
-          "family": "Olivier",
-          "name": "Julien Olivier",
-          "orcid": "",
-          "is_self": false
-        },
-        {
-          "given": "Magali",
-          "family": "Tournus",
-          "name": "Magali Tournus",
-          "orcid": "",
-          "is_self": false
-        }
-      ],
-      "links": {
-        "hal": "https://hal.science/hal-04532644/"
-      },
-      "source": [
-        "crossref",
-        "legacy"
-      ],
-      "aliases": [
-        "myxobacteria-2024"
-      ],
-      "volume": "77",
-      "pages": "195-212",
-      "abstract": "The spatial propagation of complex populations can depend on some structuring variables. In particular, recent developments in microscopy have revealed the impact of bacteria heterogeneity on the population motility. Biofilms of Myxococcus xanthus bacteria have been shown to be structured in clusters of various sizes, which remarkably, tend to move faster when they consist of a larger number of bacteria. We propose a minimal reaction-diffusion discrete-size structure model of a population of Myxococcus with two possible cluster sizes: isolated and paired bacteria. Numerical experiments show that this model exhibits travelling waves whose propagation speed depends on the increased motility of clusters, and the exchange rates between isolated bacteria and clusters. Notably, we present evidence of the existence of a characteristic threshold level θ*. on the ratio between cluster motility and isolated bacteria motility, which separates two distinct regimes of propagation speed. When the ratio is less or equal than θ*, the propagation speed of the population is constant with respect to the ratio. However, when the ratio is above θ*, the propagation speed increases. We also consider a generalised model with continuous-size structure, which also shows the same behaviour. We extend the model to include interactions with a resource population, which show qualitative behaviours in agreement to the biological experiments."
+      "issue": "1",
+      "put_codes": []
     }
   ]
 }
