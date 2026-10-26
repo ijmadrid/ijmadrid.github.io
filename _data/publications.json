@@ -48,6 +48,77 @@
     "bibtex": "@misc{growing-crn-2026,\n  title = {Large-deviations theory for growing chemical reaction networks},\n  author = {Gagrani, Praful and Madrid, Ignacio and Kobayashi, Tetsuya J},\n  year = {2026},\n  eprint = {2609.30970},\n  archivePrefix = {arXiv}\n}"
   },
   {
+    "id": "diffusive-shot-noise-2026",
+    "title": "Diffusive molecules share the 1/3 shot noise suppression of quantum conductors",
+    "date": "2026-09-15",
+    "venue": "",
+    "kind": "preprint",
+    "doi": "",
+    "arxiv": "2609.16783",
+    "authors": [
+      {
+        "name": "Henri Vo Van Qui",
+        "is_self": false
+      },
+      {
+        "name": "Ignacio Madrid",
+        "is_self": true
+      },
+      {
+        "name": "Simon Grall",
+        "is_self": false
+      },
+      {
+        "name": "Thibaut Jonckheere",
+        "is_self": false
+      },
+      {
+        "name": "Akira Fujiwara",
+        "is_self": false
+      },
+      {
+        "name": "Laurent Jalabert",
+        "is_self": false
+      },
+      {
+        "name": "Masayuki Hashisaka",
+        "is_self": false
+      },
+      {
+        "name": "Christophe Demaille",
+        "is_self": false
+      },
+      {
+        "name": "Soo Hyeon Kim",
+        "is_self": false
+      },
+      {
+        "name": "Nicolas Clément",
+        "is_self": false
+      }
+    ],
+    "links": {
+      "preprint": "https://arxiv.org/abs/2609.16783"
+    },
+    "abstract": "",
+    "note": "",
+    "url": "/publications/diffusive-shot-noise/",
+    "legacy": true,
+    "source": [
+      "legacy"
+    ],
+    "year": 2026,
+    "kind_label": "Preprint",
+    "primary_url": "https://arxiv.org/abs/2609.16783",
+    "resources": [
+      {
+        "label": "Preprint",
+        "url": "https://arxiv.org/abs/2609.16783"
+      }
+    ],
+    "bibtex": "@misc{diffusive-shot-noise-2026,\n  title = {Diffusive molecules share the 1/3 shot noise suppression of quantum conductors},\n  author = {Henri Vo Van Qui and Ignacio Madrid and Simon Grall and Thibaut Jonckheere and Akira Fujiwara and Laurent Jalabert and Masayuki Hashisaka and Christophe Demaille and Soo Hyeon Kim and Nicolas Clément},\n  year = {2026},\n  eprint = {2609.16783},\n  archivePrefix = {arXiv}\n}"
+  },
+  {
     "id": "plasticity-2026",
     "title": "Phenotypic plasticity trade-offs in an age-structured model of bacterial growth under stress",
     "date": "2026-07",
